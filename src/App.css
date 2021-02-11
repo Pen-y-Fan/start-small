@@ -1,0 +1,19 @@
+* {
+  background-color: wheat;
+}
+.App {
+  text-align: left;
+  margin: 1rem;
+}
+
+.App h1 {
+  color: blue;
+}
+
+.App h2 {
+  color: green;
+}
+
+.App h3 {
+  color: brown;
+}
