@@ -28,6 +28,10 @@ Each of the above "mini-projects" are created as their own components.
 - `import Hello from "./Hello";`
 - `import World from "./World";`
 
+## Demo
+
+The project demo can be seen on github pages: <https://Pen-y-Fan.github.io/start-small> 
+
 ## Lessons learnt
 
 1. The components have been created as classes, passing `this` is difficult! In the end I kept **App** as a function
